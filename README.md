@@ -52,16 +52,8 @@ This project is a real-time traffic monitoring system using YOLOv5 for detecting
    python live_detection.py
 
 
-## Directory Structure
+![image](https://github.com/user-attachments/assets/eb38f002-b091-4cd6-836a-5749f8e169d3)
 
-traffic-detection/
-│── data/                     # Dataset
-│── live_detection.py         # WebSocket streaming
-│── train.py                  # Model training script
-│── prepare_data.py           # Prepare the Dataset for YOLO Format
-│── README.md                 # Project documentation
-yolov5/
-│── requirements.txt          # Python dependencies
 
 
 ## Authors
